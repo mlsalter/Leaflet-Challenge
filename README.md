@@ -1,1 +1,1 @@
-# Leaglet-Challenge
+# Leaflet-Challenge
